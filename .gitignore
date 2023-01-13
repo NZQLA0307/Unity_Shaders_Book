@@ -8,11 +8,18 @@
 
 /Library
 
- 
+/Logs
+
+
+
+ # vscode
+ /.vscode
 
 # ----[ Visual Studio / MonoDevelop generated ]------- #
 
- 
+/.vs
+
+.vsconfig
 
 ExportedObj/
 
