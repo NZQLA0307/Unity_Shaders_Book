@@ -2,6 +2,14 @@
 
 本项目是书籍《Unity Shader入门精要》的配套源代码。最新版本请移步<a href="https://github.com/candycat1992/Unity_Shaders_Book" target="_blank">本项目的Github页面</a>。
 
+
+# 本书的电子版
+- [微信读书 彩色版 ](https://weread.qq.com/web/reader/20132360715a3e91201bea8kc81322c012c81e728d9d180)
+  - 支持目录跳转
+  - 彩色的
+  - 画面干净
+- 网上也有各种pdf，但不如微信读书的质量好，也没有目录跳转功能
+
 # 源码下载
 
 我们推荐您从Github上clone项目源码并及时检查更新。如果下载速度过慢可以移步<a href="https://pan.baidu.com/s/1hr4crsS" target="_blank">百度网盘地址</a>。
